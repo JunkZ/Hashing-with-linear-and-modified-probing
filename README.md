@@ -1,5 +1,5 @@
 # Hashing with linear and modified probing
-Probing algorithms
+Probing algorithms example: f1(x,i) = (h(x)+i) modulo n
 
 **Linear probing**
 Hashing function: 
